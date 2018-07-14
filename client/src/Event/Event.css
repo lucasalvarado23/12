@@ -1,0 +1,27 @@
+
+label {
+	  display: block;
+    line-height: 150%;
+    font-size: .85em;
+	font-family: "Times New Roman", Times, serif;
+}
+h4{
+	display: block;
+    line-height: 150%;
+    font-size: .85em;
+	font-family: "Times New Roman", Times, serif;
+}
+select{
+	 display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: .85em;
+	font-family: "Times New Roman", Times, serif;
+}
+input{
+		  display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: .85em;
+	font-family: "Times New Roman", Times, serif;
+}
