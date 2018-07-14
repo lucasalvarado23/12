@@ -1,8 +1,8 @@
 
 module.exports = {
-  domain: "eliot84.auth0.com",
-  clientId: "HVKh1iXRysT6rlg0RkbMraXW6T4mGg9w",
-  callBackURL: "http://localhost:3000/callback"
+  domain: "lucasm.auth0.com",
+  clientId: "IsLaAJwqv6pvy4einN5KtKkL8nMGjCbS",
+  callBackURL: "http://localhost:3000/callback, https://whomagics.herokuapp.com/ "
 }
 
 
